@@ -1,4 +1,3 @@
-#有顏色版本和時間版本
 from random import choice
 from colorama import Fore, Back, Style
 import time
